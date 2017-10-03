@@ -1,7 +1,6 @@
 import React from 'react'
+import Article from './Article'
 
 export default () => (
-	<div>
-		<h1>Hi</h1>
-	</div>
+	<Article />
 )
